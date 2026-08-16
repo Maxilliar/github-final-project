@@ -1,0 +1,5 @@
+git branch -vv
+
+* bug-fix-revert 4c1103f Revert "Fix footer year in README"
+  bug-fix-typo   04f704b Fix footer year in README
+  main           04f704b [origin/main: ahead 1] Fix footer year in README
