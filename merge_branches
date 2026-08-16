@@ -1,0 +1,10 @@
+04f704b (HEAD -> main, bug-fix-typo) Fix footer year in README
+ad95b0a (origin/main, origin/HEAD) Create close_pr.yml
+13af262 Create feature_request.md
+cd5f237 Create bug_report.md
+cdeb355 Create CODE_OF_CONDUCT.md
+3f7857c Create CONTRIBUTING.md
+2a3b643 Create simple-interest.sh
+f4e5aa3 Create compound_interest.py
+d8324ad Update README.md
+484d879 Initial commit
